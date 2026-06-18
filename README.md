@@ -4,10 +4,9 @@ I'm an engineer driven by a deep curiosity for technology and a passion for buil
 
 I thrive on transforming ambitious ideas into practical, high-impact solutions by combining analytical thinking with hands-on engineering. Whether it's developing AI-powered applications, designing scalable software systems, exploring cybersecurity-driven innovations, or working with cloud-native technologies, I am constantly seeking opportunities to learn, build, and push the boundaries of my technical expertise. Driven by continuous growth and a commitment to excellence, I aspire to create technology that is not only technically robust but also capable of delivering lasting value and real-world impact.
 
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,40:302b63,100:24243e&text=Hiya%20Bandyopadhyay&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20DSA%20Learner%20·%20Future%20Software%20Engineer&descSize=18&descAlignY=60&descAlign=50&stroke=8b5cf6&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,40:302b63,100:24243e&text=Hiya%20Bandyopadhyay&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20DSA%20Learner%20·%20Future%20AIML%20Engineer&descSize=18&descAlignY=60&descAlign=50&stroke=8b5cf6&strokeWidth=2"/>
 
 </div>
 
@@ -26,7 +25,7 @@ I thrive on transforming ambitious ideas into practical, high-impact solutions b
 ```typescript
 const hiya = {
   name:     "Hiya Bandyopadhyay",
-  role:     "AIML ENGINEER",
+  role:     "Full Stack Developer",
   location: "India 🇮🇳",
   status:   "Building & Learning 🚀",
 
@@ -41,8 +40,8 @@ const hiya = {
   },
 
   currently: [
-    "STRUGGLING DSA LEARNER 🧠",
-    "Exploring DevOps and MLOps 🐳",
+    "Mastering DSA 🧠",
+    "Exploring DevOps 🐳",
     "Building full-stack apps ⚡",
     "Learning AI fundamentals 🤖",
   ],
