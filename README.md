@@ -26,7 +26,7 @@ I thrive on transforming ambitious ideas into practical, high-impact solutions b
 ```typescript
 const hiya = {
   name:     "Hiya Bandyopadhyay",
-  role:     "Full Stack Developer",
+  role:     "AIML ENGINEER",
   location: "India 🇮🇳",
   status:   "Building & Learning 🚀",
 
@@ -41,8 +41,8 @@ const hiya = {
   },
 
   currently: [
-    "Mastering DSA 🧠",
-    "Exploring DevOps 🐳",
+    "STRUGGLING DSA LEARNER 🧠",
+    "Exploring DevOps and MLOps 🐳",
     "Building full-stack apps ⚡",
     "Learning AI fundamentals 🤖",
   ],
